@@ -116,6 +116,7 @@ form {
 
 input {
     height: 45px;
+
 }
 
 form .submit {
@@ -230,3 +231,28 @@ form .submit {
     padding-top: 10px;
     font-size: 20px;
 }
+
+@media screen and (max-width: 980px) {
+    h1 {
+        margin-left: 5%;
+    }
+
+    #links {
+        margin-right: 70px;
+    }
+
+    .container {
+        width: 600px;
+        float: left;
+        margin-left: 5%;
+    }
+
+    .form-control {
+        width: 550px;
+    }
+
+
+    
+}   
+
+
