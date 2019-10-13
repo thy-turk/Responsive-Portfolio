@@ -276,8 +276,8 @@ form .submit {
         width: 640px;
         margin: 0;
         text-align: center;
-        height: 10px;
-        
+        height: 20px;
+        padding-top: 10px;
         
     }
 
